@@ -1,0 +1,7 @@
+# Ignore everything
+/*
+
+# Except for the following
+!.gitignore
+!Cultivated\ Code\ of \Conduct.pdf
+!Cultivated\ Code\ of \Conduct.tex.enc
