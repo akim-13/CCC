@@ -2,6 +2,8 @@
 /*
 
 # Except for the following
-!.gitignore
+!README.md
 !Cultivated\ Code\ of \Conduct.pdf
 !Cultivated\ Code\ of \Conduct.tex.enc
+!gen-previews.sh
+!previews/
