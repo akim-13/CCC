@@ -44,9 +44,11 @@ friends and relatives, means that I will have to censor out some sensitive parts
 which I'd rather not disclose to the entire world.
 
 # Preview
+*Click on any image to view the pdf document.*
 <!--PREVIEWS START-->
 [![The preview of the CCC](./previews/CCC-0.jpg)](./Cultivated%20Code%20of%20Conduct.pdf)
 [![The preview of the CCC](./previews/CCC-1.jpg)](./Cultivated%20Code%20of%20Conduct.pdf)
 [![The preview of the CCC](./previews/CCC-2.jpg)](./Cultivated%20Code%20of%20Conduct.pdf)
 [![The preview of the CCC](./previews/CCC-3.jpg)](./Cultivated%20Code%20of%20Conduct.pdf)
+[![The preview of the CCC](./previews/CCC-4.jpg)](./Cultivated%20Code%20of%20Conduct.pdf)
 <!--PREVIEWS FINISH-->
