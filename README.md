@@ -1,12 +1,11 @@
 # FAQ [^faq]
 [^faq]: These questions have been frequently asked by no one. I am writing this
-before even making the CCC public ¯\\\_(ツ)\_/¯.
+before even making the CCC public. ¯\\\_(ツ)\_/¯
 
 ### What is the CCC?
 The CCC, or the Cultivated Code of Conduct, is a document where I clearly
 define the rules, principles, behaviours, moral values and other standards I
 aim to live by.
-
 
 ### Why?..
 At some point or another, we've all experienced
@@ -51,4 +50,5 @@ which I'd rather not disclose to the entire world.
 [![The preview of the CCC](./previews/CCC-2.jpg)](./Cultivated%20Code%20of%20Conduct.pdf)
 [![The preview of the CCC](./previews/CCC-3.jpg)](./Cultivated%20Code%20of%20Conduct.pdf)
 [![The preview of the CCC](./previews/CCC-4.jpg)](./Cultivated%20Code%20of%20Conduct.pdf)
+[![The preview of the CCC](./previews/CCC-5.jpg)](./Cultivated%20Code%20of%20Conduct.pdf)
 <!--PREVIEWS FINISH-->
