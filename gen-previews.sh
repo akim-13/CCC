@@ -5,7 +5,7 @@ dir="./previews"
 rm $dir/*
 
 echo "Generating previews..."
-convert -density 225 -quality 10 ./Cultivated\ Code\ of\ Conduct.pdf $dir/CCC.jpg
+magick -density 225 -quality 10 ./Cultivated\ Code\ of\ Conduct.pdf -set filename:page "02%d" "$dir/CCC-%02d.jpg"
 
 # Create an array of generated preview files.
 previews=($(ls $dir))
