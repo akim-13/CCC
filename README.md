@@ -62,4 +62,5 @@ which I'd rather not disclose to the entire world.
 [![The preview of the CCC](./previews/CCC-14.jpg)](./Cultivated%20Code%20of%20Conduct.pdf)
 [![The preview of the CCC](./previews/CCC-15.jpg)](./Cultivated%20Code%20of%20Conduct.pdf)
 [![The preview of the CCC](./previews/CCC-16.jpg)](./Cultivated%20Code%20of%20Conduct.pdf)
+[![The preview of the CCC](./previews/CCC-17.jpg)](./Cultivated%20Code%20of%20Conduct.pdf)
 <!--PREVIEWS FINISH-->
