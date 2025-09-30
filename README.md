@@ -8,38 +8,39 @@ define the rules, principles, behaviours, moral values and other standards I
 aim to live by.
 
 ### Why?..
-At some point or another, we've all experienced
-moments where we've failed to keep a promise to ourselves, whether it's to quit
-doing something or to do it more often. To prevent this from happening again, I
-decided to make such promises binding by writing them down in the "official"
-document.
+At some point or another, we've all experienced moments when we've failed to
+keep a promise to ourselves, whether it's to quit doing something or to do it
+more often. To prevent this from happening again, I decided to make such promises
+binding by writing them down in an "official" document. This is the primary, practical reason.
+
+The secondary — more theoretical — reason concerns philosophical grounding, which
+is beyong the scope of this FAQ and is far more interesting to discuss in person.
 
 ### Why is it "Cultivated"?
 As stated in one of the introductory paragraphs:
 
 >[...] the CCC is a living document, subject to change and growth as I see fit, [...]
 
-So the "Cultivated" part emphasizes the fact that this document embodies a set
+So the "Cultivated" part emphasises the fact that this document embodies a set
 of standards which have been progressively developed and refined
-over time.
+over time. I've come to update it every month, so it evolves constantly.
 
 ### Why use legal style?
 The primary reason lies in the precision that a legal style affords; detailed
 rules and stringent requirements mitigate the possibility of circumventing the
 system. Furthermore, the considerable time and effort required to create such
-documents inherently enhance their value, fostering a stronger commitment to
+documents inherently enhance their value, engendering a stronger commitment to
 adherence. Also it looks cool.
 
 ### Why make it public?
 
-To increase the probability of actually following it. I particularly dislike
-hypocrisy; therefore, if other people are aware of the rules I am following,
-they can call me out when I don't. I also believe that it could provide others
-with a clearer understanding of who I am and what kind of person I aspire to
-be. 
+At first, sharing the rules I follow helped me stay accountable by making them
+known to the people around me. Although over time it became unnecessary, as I
+learned to fully uphold them on my own. Now the only reason I keep this document
+public is to give anyone interested a glimpse into my character.
 
-However, the fact that this document is available to people beyond my close
-friends and relatives, means that I will have to censor out some sensitive parts
+However, the fact that this document is accessible to people beyond my close
+friends and relatives means that I will have to censor out some sensitive parts,
 which I'd rather not disclose to the entire world.
 
 # Preview
